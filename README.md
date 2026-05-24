@@ -1,4 +1,4 @@
- ⚠️ Multi-OS Error Generator Pro
+ #⚠️ Multi-OS Error Generator Pro
 
 Ferramenta avançada para simulação de diálogos de sistema e engenharia social ética.
 
